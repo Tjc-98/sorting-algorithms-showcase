@@ -25,7 +25,7 @@ java se.kth.Main 1000000 2000000000 42
 
 ### Prerequisites
 
-- Java 11 or later
+- Java 21 or later
 
 ### Building
 
